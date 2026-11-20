@@ -1,5 +1,7 @@
 # herdr-app-picker
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A Ctrl-n/Ctrl-p navigation fork of Herdr's "Go to a tab, space or agent…" picker.
 
 It adds no global key binding. Open the existing picker with `Cmd-P`; inside the picker:
